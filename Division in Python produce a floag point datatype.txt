@@ -1,0 +1,10 @@
+Division in Python produce a floag point datatype
+
+print(10/2)
+5.0
+
+print(99.0/100.)
+0.99
+
+it is only in python 3.0 not in 2.0
+

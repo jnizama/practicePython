@@ -1,0 +1,5 @@
+#tuplas
+
+t = tuple();
+s = ();
+
