@@ -24,4 +24,4 @@ more environment or others languages: https://www.microsoft.com/en-us/sql-server
         pip freez
      3.3) virtualenv venv
      3.4) venv\Scripts\activate
-     3.5) pip install pyodbc
+     3.5) pip install pyodbc..
