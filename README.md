@@ -6,6 +6,10 @@
 
 In this material you can find out how Python work and remeber python syntax in daily works.
 
+..1. Convert Decimal to Binary 
+..2. Convert Decimal to Binary
+..3. Convert Decimal to Binary
+
 ## SQL Server connector
 
 Steps to Install
