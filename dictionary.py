@@ -1,5 +1,5 @@
 #function using dictionary
-import mysql.connector
+#import mysql.connector
 d = {} # it could be declare as "d = dict()"
 
 num = input("Enter dimension of dictionary")
