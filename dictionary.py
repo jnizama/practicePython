@@ -1,3 +1,4 @@
+
 #function using dictionary
 #import mysql.connector
 d = {} # it could be declare as "d = dict()"

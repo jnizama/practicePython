@@ -1,3 +1,4 @@
+
 def factorial(DieNumber):
     factor = 1;
     for x in range(1,int(DieNumber)):
@@ -13,4 +14,9 @@ for r in row:
 DieNumber = input("Enter number for find its factorial: ")
 factorial = factorial(DieNumber)
 print(factorial)
+
+# using for 
+nombres = {"1":"jorge", "2":"luis", "3":"nizama", "4":"rios"}
+for id, nom in nombres:
+    print(nom)
 

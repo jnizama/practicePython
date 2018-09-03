@@ -1,6 +1,7 @@
 {
     "python.linting.enabled": false,
-    "python.pythonPath": "${workspaceFolder}\\venv\\Scripts\\python.exe",
-    "editor.fontSize": 12,
-    "editor.fontFamily": "Consolas, 'Courier New', monospace"
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+    "editor.fontSize": 25,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 16
 }

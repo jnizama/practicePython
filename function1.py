@@ -4,3 +4,4 @@ def method1 (firstname ="first", lastname = "last"):
 
 fullName = method1(lastname ="Nizama");
 print(fullName)
+
