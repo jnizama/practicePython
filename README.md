@@ -6,9 +6,11 @@
 
 In this material you can find out how Python work and remeber python syntax in daily works.
 
-+ Convert Decimal to Binary 
 + Convert Decimal to Binary
-+ Convert Decimal to Binary
++ Arrays & Tuplas
++ Using Dictionary
++ Define procedures
++ Root Squared & Time
 
 ## SQL Server connector
 
