@@ -1,0 +1,5 @@
+Jose Medina	55	1.50
+Maria Ricos	25	1.30
+Sara Novosadko	45	1.70
+Margareth Rios	75	1.80
+Alvaro Soler	15	1.55
