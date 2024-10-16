@@ -1,0 +1,7 @@
+
+import urllib.request, urllib.response
+
+html = urllib.request.urlopen("https://rpp.pe/index.html")
+
+for line in html:
+    print(line.decode().strip())

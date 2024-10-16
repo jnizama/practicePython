@@ -1,4 +1,29 @@
 ## functions strings
+import sys
+import os
+
+os.system('cls')
+nameOf = "Joseph Flaw"
+print(nameOf[0])
+print(nameOf[:10])   # ----> not include position 10 in the string
+
+name = "Mathew's our \"friend\" "
+print(name)
+
+#using three quotes
+word1 = """ Co to 
+        jest gdie ty jest
+        noc """
+
+        
+print(word1)
+
+strname = "the number of cars is "
+strname = strname + str(17)
+print(strname)
+
+sys.exit()  #--> exit of the program
+
 #split
 address = "Av. San Jose de Obregon 123"
 splitAddress = address.split() ##split in list objects

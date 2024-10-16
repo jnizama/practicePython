@@ -1,0 +1,17 @@
+This is file to test some strings
+First string From:jorgenizamarios@gmail.com Lima San Isidro
+Yo que no vivo sin ti
+Eyes without a face
+From: Estocolmo
+Never will give up
+Mathematics is good. From: Marco Fontain Address: Callao
+This is anther test
+The year 2000 was leap
+X-Server: Machintoch 7.8
+X-DSPAM-Result: Mac
+X-DSPAM-Result:Windows
+X-DSPAM-Confidence: 0.855
+X-DSPAM Expresion Regular: 1998
+X-DSPAM-Confidence:1.084
+X-Content-Type-Message-Body: text/plain
+My Favorite numbers are 19 and 24

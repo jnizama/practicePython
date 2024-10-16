@@ -1,7 +1,7 @@
 {
     "python.linting.enabled": false,
     "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
-    "editor.fontSize": 25,
+    "editor.fontSize": 22,
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "terminal.integrated.fontSize": 16
 }

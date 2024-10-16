@@ -10,3 +10,4 @@ print(row.get(3)) #get a item of dictionary
 row = {"h":'hombre',"m":'mujer',"n":'niño'} #Dictionary
 print(row.get("m")) #get a item of dictionary
 
+

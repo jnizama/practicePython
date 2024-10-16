@@ -1,0 +1,11 @@
+
+import urllib.request, urllib.response,  urllib.parse
+from bs4 import BeautifulSoup
+
+html = urllib.request.urlopen("https://rpp.pe/index.html")
+soup = BeautifulSoup(html, 'html.parser')
+
+# retrieve all of the anchor tabs
+tags = soup('a')
+for tag in tags:
+    print(tag.get('href', None))
